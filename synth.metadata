@@ -4,15 +4,15 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-debugger-client.git",
-        "sha": "4db55127e54a1778943924cc711e81ddf6bc4c94"
+        "sha": "cb3a952288b29d28fa53734a7655dc6b7291e663"
       }
     },
     {
       "git": {
         "name": "googleapis",
         "remote": "https://github.com/googleapis/googleapis.git",
-        "sha": "dba65e3c28aa8e26c4d5b8ec9c80fbd0d0f29864",
-        "internalRef": "380835888"
+        "sha": "d2977af9e9f1fc0c9dc8368352daa032471f3c63",
+        "internalRef": "403132955"
       }
     }
   ],
