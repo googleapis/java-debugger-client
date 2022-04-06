@@ -1,5 +1,19 @@
 # Changelog
 
+### [1.1.10](https://github.com/googleapis/java-debugger-client/compare/v1.1.9...v1.1.10) (2022-03-29)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v2.9.0 ([#167](https://github.com/googleapis/java-debugger-client/issues/167)) ([b11fcca](https://github.com/googleapis/java-debugger-client/commit/b11fcca0070a8dc7822a3f799f892b78e11fbc15))
+
+### [1.1.9](https://github.com/googleapis/java-debugger-client/compare/v1.1.8...v1.1.9) (2022-03-22)
+
+
+### Dependencies
+
+* update actions/checkout action to v3 ([#154](https://github.com/googleapis/java-debugger-client/issues/154)) ([329dd01](https://github.com/googleapis/java-debugger-client/commit/329dd01874f16ecf3512e81f9c2c178faea4f28f))
+
 ### [1.1.8](https://github.com/googleapis/java-debugger-client/compare/v1.1.7...v1.1.8) (2022-03-02)
 
 
