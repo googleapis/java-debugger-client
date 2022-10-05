@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.7](https://github.com/googleapis/java-debugger-client/compare/v1.3.6...v1.3.7) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([f0338ef](https://github.com/googleapis/java-debugger-client/commit/f0338ef58457a0f97250fefcfe3fd39b50419422))
+
 ## [1.3.6](https://github.com/googleapis/java-debugger-client/compare/v1.3.5...v1.3.6) (2022-10-03)
 
 
